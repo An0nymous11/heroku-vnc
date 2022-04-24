@@ -15,6 +15,7 @@ RUN set -ex; \
         sudo \
         vim \
 	vlc \
+	qbittorrent \
         bash \
         net-tools \
         novnc \
